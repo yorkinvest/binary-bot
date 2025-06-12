@@ -108,7 +108,7 @@
     "commander": "^2.20.0",
     "concat-stream": "^2.0.0",
     "core-js": "^2.6.5",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^6.2.0",
     "mobx": "^5.9.4",
     "mobx-react": "^5.4.4",
     "react-render-html": "^0.6.0",
